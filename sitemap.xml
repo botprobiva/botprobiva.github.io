@@ -12,4 +12,10 @@
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
+    <url>
+        <loc>https://botprobiva.github.io/Boty-dlya-probiva-i-prochee/</loc>
+        <lastmod>2024-07-02</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
 </urlset>
