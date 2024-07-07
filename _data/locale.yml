@@ -3,7 +3,7 @@
 ########################
 en: &EN
   SUBSCRIBE               : "Subscribe"
-  READMORE                : "Read more"
+  READMORE                : "Далее..."
   SEARCH                  : "Search"
   CANCEL                  : "Cancel"
   VIEWS                   : "views"
