@@ -1,4 +1,11 @@
-# header:
+ header:
+
+ - titles:
+      # @start locale config
+      ru      : &RU       Главная
+      # @end locale config
+    url: /
+
 #  - titles:
       # @start locale config
       en      : &EN       Archive
