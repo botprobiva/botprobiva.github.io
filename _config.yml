@@ -6,7 +6,7 @@ url     : https://botiprobiva.online # the base hostname & protocol for your sit
 baseurl : # does not include hostname
 title   : Пробив номера - боты тг!
 description: > # this means to ignore newlines until "Language & timezone"
-  Пробив номера телефона при помощи тг, телеграм ботов пробива.
+  Пробив номера телефона при помощи тг телеграм ботов пробива.
 
 
 ## => Language and Timezone
