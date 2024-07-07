@@ -2,7 +2,7 @@
 
  - titles:
       # @start locale config
-      ru      : &RU       Главная
+      en      : &EN       Archive
       # @end locale config
     url: /
 
