@@ -191,11 +191,11 @@ defaults:
       type: posts
     values:
       layout: article
-      sharing: false
+      sharing: true
       license: false
       aside:
         toc: true
-      show_edit_on_github: false
+      show_edit_on_github: true
       show_subscribe: false
       pageview: true
 
