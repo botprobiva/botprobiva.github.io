@@ -4,8 +4,8 @@
 en: &EN
   SUBSCRIBE               : "Subscribe"
   READMORE                : "Далее..."
-  SEARCH                  : "Search"
-  CANCEL                  : "Cancel"
+  SEARCH                  : "Поиск"
+  CANCEL                  : "Отменить"
   VIEWS                   : "views"
   LAST_UPDATED            : "Last updated"
   PREVIOUS                : "PREVIOUS"
