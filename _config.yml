@@ -8,7 +8,7 @@ title: Пробив номера - боты тг!
 description: > # this means to ignore newlines until "Language & timezone"
   Пробив номера телефона при помощи тг телеграм ботов пробива.
 
-
+permalink: /:title/
 ## => Language and Timezone
 ##############################
 lang: ru-RU # the language of your site, default as "en"
