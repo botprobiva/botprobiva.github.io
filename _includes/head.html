@@ -1,8 +1,3 @@
-<meta charset="UTF-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-<meta name="keywords" content="пробив, номера, звонки, бесплатные, боты, Telegram, поиск, человек, деанон, информация, доксинг, девушка, жена, измена, любовник, новый, бот, сват, свтинг, сватнуть, узнать, информация, тг">
-
 <title>
   {% if page.url == '/' %}
     Пробив номера - боты тг!
@@ -13,11 +8,12 @@
   {% endif %}
 </title>
 
-{%- include snippets/get-article-title.html article=page -%}
-<title>{%- if __return -%}{{ __return }} - {{ site.title }}{%- else -%}{{ site.title }}{%- endif -%}</title>
-
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+<meta name="keywords" content="пробив, номера, звонки, бесплатные, боты, Telegram, поиск, человек, деанон, информация, доксинг, девушка, жена, измена, любовник, новый, бот, сват, свтинг, сватнуть, узнать, информация, тг">
 <meta name="description" content="{%- if page.excerpt -%}{{ page.excerpt | strip_html | strip_newlines | strip | truncate: 160 }}{%- else -%}{{ site.description }}{%- endif -%}">
-<link rel="canonical" href="{%- include snippets/page-url.html -%}">
+<link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' | replace:'/','' }}">
 
 {%- assign _paths_rss = site.paths.rss | default: site.data.variables.default.paths.rss -%}
 {%- include snippets/get-nav-url.html path=_paths_rss -%}
