@@ -4,7 +4,7 @@ text_skin: dark # "default" (default), "dark", "forest", "ocean", "chocolate", "
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url: "https://probivbot.net" # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl: "/"
-title   : Пробив номера - боты тг!
+title: Пробив номера - боты тг!
 description: > # this means to ignore newlines until "Language & timezone"
   Пробив номера телефона при помощи тг телеграм ботов пробива.
 
