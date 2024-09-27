@@ -11,7 +11,7 @@ title: Пробив По Номеру РФ📱Боты пробивки и де�
 - [✈️ Пробив телеграм](https://github.com/botprobiva/botprobiva.github.io/tree/main?tab=readme-ov-file#%EF%B8%8F%D0%BF%D1%80%D0%BE%D0%B1%D0%B8%D0%B2-%D0%BF%D0%BE-%D1%82%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC)
 - [✅ Пробив ВКонтакте](https://github.com/botprobiva/botprobiva.github.io/tree/main?tab=readme-ov-file#%D0%BF%D1%80%D0%BE%D0%B1%D0%B8%D0%B2-%D0%B2%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-%D0%B0%D0%BA%D0%BA%D0%B0%D1%83%D0%BD%D1%82%D0%B0)
 - [🚗 Пробив Автовладельцев](https://github.com/botprobiva/botprobiva.github.io/tree/main?tab=readme-ov-file#-%D0%BF%D0%BE%D0%B8%D1%81%D0%BA-%D0%BF%D0%BE-%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D1%83-%D0%B0%D0%B2%D1%82%D0%BE)
-- [🤷‍♂️ Частые Вопросы](https://github.com/botprobiva/botprobiva.github.io#%EF%B8%8F-%D1%87%D0%B0%D1%81%D1%82%D0%BE-%D0%B7%D0%B0%D0%B4%D0%B0%D0%B2%D0%B0%D0%B5%D0%BC%D1%8B%D0%B5-%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B-faq)
+- [🤷‍♂️ Частые Вопросы](https://github.com/botprobiva/botprobiva.github.io/tree/main?tab=readme-ov-file#%EF%B8%8F-%D1%87%D0%B0%D1%81%D1%82%D0%BE-%D0%B7%D0%B0%D0%B4%D0%B0%D0%B2%D0%B0%D0%B5%D0%BC%D1%8B%D0%B5-%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B-faq)
 
 <!--more-->
 
@@ -29,7 +29,7 @@ title: Пробив По Номеру РФ📱Боты пробивки и де�
 8. 🐾[**Himera Search**](https://botprobiva.github.io/HimeraSearch/) - Поиск места проживания, доходов, владения авто, правонарушений и многое другое.
 9. 👨‍🎨[**MrArt**](https://telegram.me/MrArt_SBot) - Поиск по номеру телефона, имени, email, Telegram, username, VK, авто, паролю, ИНН/SNILS и полному поиску.
 10. 👂[**Оракул**](https://orcl-probiv.ru/) - Поиск по номеру телефона, Telegram, имени, авто, VIN, ссылке в соцсетях, паспорту, ИНН, СНИЛС, email, номеру карты, адресу, фото.
-11. 👍[**Zernerda**](hhttps://botprobiva.github.io/zernerda/) - Поиск по телефону, ФИО, Авто, Telegram, VK, Одноклассники, Twitter, Instagram, Facebook, Почта, Паспорт, ИНН, IP, User-Agent, Стикер.
+11. 👍 
 12. 👀[**Horus Eye**](https://telegram.me/HorrusEyye_bot) - Поиск по имени, номеру, email, IP, паролю, адресу, ИНН, СНИЛС, паспорту, фото.
 13. 🌐[**Universal Search**](https://botprobiva.github.io/UniversalSearch/) - Поиск города, улицы, номера дома или квартиры, аккаунтов и прочего. Умеет искать в других ботах.
 14. 🐕‍🦺[**Cerberus**](https://t.me/infocerberusbot) - Поиск по телефону, почте, ФИО, ТГ, ВК, ОК. 
